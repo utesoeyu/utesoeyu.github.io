@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utesoeyu.github.io/Nei/sitemap_index.txt
+Sitemap: https://utesoeyu.github.io/SwJ/sitemap_index.txt
+Sitemap: https://utesoeyu.github.io/Xbv/sitemap_index.txt
+Sitemap: https://utesoeyu.github.io/ceT/sitemap_index.txt
